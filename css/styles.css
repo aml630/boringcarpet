@@ -1,0 +1,21 @@
+h2.intro {
+ text-decoration: underline;
+ font-style: italic;
+ color: green;
+ width: 30%;
+}
+
+p.intro {
+ color: blue;
+ width: 30%;
+}
+
+img.intro {
+  height: 200px;
+  weight: 200px;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+p {
+ width: 30%;
+}
